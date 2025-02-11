@@ -70,7 +70,3 @@ Install dependencies:
 ### Known Issues
     1. The t5-small model may struggle with very complex grammar corrections.
     2. SymSpell requires a comprehensive dictionary file for effective spelling corrections.
-
-### Author
-    
-    Developed by SUHAS B M. Feel free to reach out at suhasbm2004@gmail.com 
